@@ -96,8 +96,6 @@
 .bgButton{
     transition: 1s;
     background-image: linear-gradient(#1c111c, #181023);
-
-
 }
 
 .lightIcon, .darkIcon{
