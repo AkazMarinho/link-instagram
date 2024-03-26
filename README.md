@@ -1,4 +1,4 @@
-# Links de redes sociais
+# Links de apresentação de redes sociais
 
 
 ## Sobre o projeto
