@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#dark{
+  color: #fff;
+}
+
+#light {
+  color: #000;
+}
