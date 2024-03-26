@@ -1,0 +1,52 @@
+.content{
+    width: 100%;
+
+    
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-direction: column;
+    color: #fff;
+}
+
+a{
+    text-decoration: none;
+    transition: .3s;
+}
+
+.bgContent{
+    width: 25rem;
+    height: 40px;
+    border-radius: 10px;    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+
+    /* transition: 1s; */
+}
+
+#dark .bgContent{
+    background-color: #6d6d6d87;
+}
+
+#light .bgContent{
+    background-color: #000000a1;
+}
+
+.bgContent svg{
+    font-size: 25px;
+}
+
+.bgContent span{
+    width: 100%;
+    text-align: center;
+}
+
+@media (max-width: 530px){
+    .bgContent{
+        width: 80%;
+        min-width: 16rem;
+    }
+}
+
